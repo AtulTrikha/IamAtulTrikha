@@ -328,6 +328,7 @@ jQuery(function ($) {
 
     (function () {
         var myLatlng = new google.maps.LatLng(40.20682, -83.119888);
+
             var styles = [
                 {
                     featureType: "landscape",
